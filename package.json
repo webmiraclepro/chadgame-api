@@ -1,0 +1,21 @@
+{
+  "name": "chad-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.13",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "node-cron": "^3.0.1",
+    "uuid": "^8.3.2",
+    "web3": "^1.7.5",
+    "web3-eth-contract": "^1.7.5"
+  }
+}
