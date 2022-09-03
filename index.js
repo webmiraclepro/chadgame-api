@@ -30,3 +30,5 @@ const initApp = () => {
 }
 
 initApp();
+
+module.exports = app;
