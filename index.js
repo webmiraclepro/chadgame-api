@@ -7,7 +7,7 @@ const { getLotteryTimeLeft } = require('./utils');
 const { beginDraw, monitorLotteryEvent } = require('./logic');
 
 const app = express();
-const port = 3011;
+const port = 80;
 
 app.use(cors());
 
